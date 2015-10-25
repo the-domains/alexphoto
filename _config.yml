@@ -1,0 +1,23 @@
+name: alexphoto
+favicon: null
+layout_spectrum: 0.09923647344112396
+typography_spectrum: 0.4062838626559824
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9050906780175865
+  lightness: 0.8000965802930295
+  saturation: 0.1431756119709462
+  rhythmicContrast: 0.3120382032357156
+purpose: []
