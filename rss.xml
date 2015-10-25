@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[german photographer]]></title>
         <description><![CDATA[german photographer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/alexphoto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 25 Oct 2015 13:21:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 25 Oct 2015 13:29:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alexphoto/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>bianca & daniel</p>]]></description>
-            <link>undefined29c4ad34-8d9d-4d25-a41b-780280a0f7ca/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5173399-9010-4f36-8d05-f1873e7835f1.jpg">]]></description>
+            <link>https://thegrid.ai/alexphoto/29c4ad34-8d9d-4d25-a41b-780280a0f7ca/index.html</link>
             <guid isPermaLink="false">29c4ad34-8d9d-4d25-a41b-780280a0f7ca</guid>
-            <pubDate>Sun, 25 Oct 2015 13:21:16 GMT</pubDate>
+            <pubDate>Sun, 25 Oct 2015 13:29:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
