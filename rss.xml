@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[german photographer]]></title>
+        <description><![CDATA[german photographer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 25 Oct 2015 13:21:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>bianca & daniel</p>]]></description>
+            <link>undefined29c4ad34-8d9d-4d25-a41b-780280a0f7ca/index.html</link>
+            <guid isPermaLink="false">29c4ad34-8d9d-4d25-a41b-780280a0f7ca</guid>
+            <pubDate>Sun, 25 Oct 2015 13:21:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
